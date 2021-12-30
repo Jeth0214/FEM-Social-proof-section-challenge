@@ -90,7 +90,7 @@ img {
 .card {
     background-color: var(--clr-very-dark-magenta);
     border-radius: 10px;
-    padding: 2.5em;
+    padding: 1.8em 2.5em;
     margin-bottom: 1em;
 }
 
@@ -103,7 +103,7 @@ img {
 
 .card__avatar {
     border-radius: 50%;
-    width: 60px;
+    width: 50px;
 }
 
 .card__name {
@@ -145,6 +145,7 @@ img {
 
     .intro {
         text-align: left;
+        padding-top: 3em;
     }
 
     .intro__headings {
